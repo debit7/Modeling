@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 ```{r}
-year <- c(2000 ,   2001  ,  2002  ,  2003 ,   2004)
+year <- c(2016 ,   2017  ,  2018  ,  2019 ,   2020)
 rate <- c(9.34 ,   8.50  ,  7.62  ,  6.93  ,  6.60)
 
 plot(year,rate,
